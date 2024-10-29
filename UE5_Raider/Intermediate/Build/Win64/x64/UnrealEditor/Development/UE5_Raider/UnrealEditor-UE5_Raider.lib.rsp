@@ -1,0 +1,25 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-UE5_Raider.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Engine Games\Raider\raider\UE5_Raider\Intermediate\Build\Win64\x64\UE5_RaiderEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\Unreal Engine Games\Raider\raider\UE5_Raider\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE5_Raider\TP_PickUpComponent.gen.cpp.obj"
+"D:\Unreal Engine Games\Raider\raider\UE5_Raider\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE5_Raider\TP_WeaponComponent.gen.cpp.obj"
+"D:\Unreal Engine Games\Raider\raider\UE5_Raider\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE5_Raider\UE5_Raider.init.gen.cpp.obj"
+"D:\Unreal Engine Games\Raider\raider\UE5_Raider\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE5_Raider\UE5_RaiderCharacter.gen.cpp.obj"
+"D:\Unreal Engine Games\Raider\raider\UE5_Raider\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE5_Raider\UE5_RaiderGameMode.gen.cpp.obj"
+"D:\Unreal Engine Games\Raider\raider\UE5_Raider\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE5_Raider\UE5_RaiderPlayerController.gen.cpp.obj"
+"D:\Unreal Engine Games\Raider\raider\UE5_Raider\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE5_Raider\UE5_RaiderProjectile.gen.cpp.obj"
+"D:\Unreal Engine Games\Raider\raider\UE5_Raider\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE5_Raider\TP_PickUpComponent.cpp.obj"
+"D:\Unreal Engine Games\Raider\raider\UE5_Raider\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE5_Raider\TP_WeaponComponent.cpp.obj"
+"D:\Unreal Engine Games\Raider\raider\UE5_Raider\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE5_Raider\UE5_Raider.cpp.obj"
+"D:\Unreal Engine Games\Raider\raider\UE5_Raider\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE5_Raider\UE5_RaiderCharacter.cpp.obj"
+"D:\Unreal Engine Games\Raider\raider\UE5_Raider\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE5_Raider\UE5_RaiderGameMode.cpp.obj"
+"D:\Unreal Engine Games\Raider\raider\UE5_Raider\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE5_Raider\UE5_RaiderPlayerController.cpp.obj"
+"D:\Unreal Engine Games\Raider\raider\UE5_Raider\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE5_Raider\UE5_RaiderProjectile.cpp.obj"
+"D:\Unreal Engine Games\Raider\raider\UE5_Raider\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE5_Raider\Default.rc2.res"
+/OUT:"D:\Unreal Engine Games\Raider\raider\UE5_Raider\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE5_Raider\UnrealEditor-UE5_Raider.lib"

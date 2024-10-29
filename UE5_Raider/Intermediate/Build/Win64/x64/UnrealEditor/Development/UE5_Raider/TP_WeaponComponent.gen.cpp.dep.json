@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal engine games\\raider\\raider\\ue5_raider\\intermediate\\build\\win64\\unrealeditor\\inc\\ue5_raider\\uht\\tp_weaponcomponent.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal engine games\\raider\\raider\\ue5_raider\\intermediate\\build\\win64\\x64\\ue5_raidereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal engine games\\raider\\raider\\ue5_raider\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ue5_raider\\definitions.ue5_raider.h",
+            "d:\\unreal engine games\\raider\\raider\\ue5_raider\\source\\ue5_raider\\tp_weaponcomponent.h",
+            "d:\\unreal engine games\\raider\\raider\\ue5_raider\\intermediate\\build\\win64\\unrealeditor\\inc\\ue5_raider\\uht\\tp_weaponcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

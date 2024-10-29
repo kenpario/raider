@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UE5_Raider",
+			"Path": "..\\Source\\UE5_Raider.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UE5_RaiderEditor",
+			"Path": "..\\Source\\UE5_RaiderEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

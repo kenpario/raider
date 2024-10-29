@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal engine games\\raider\\raider\\ue5_raider\\intermediate\\build\\win64\\unrealeditor\\inc\\ue5_raider\\uht\\ue5_raidercharacter.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal engine games\\raider\\raider\\ue5_raider\\intermediate\\build\\win64\\x64\\ue5_raidereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal engine games\\raider\\raider\\ue5_raider\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ue5_raider\\definitions.ue5_raider.h",
+            "d:\\unreal engine games\\raider\\raider\\ue5_raider\\source\\ue5_raider\\ue5_raidercharacter.h",
+            "d:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "d:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "d:\\ue_5.4\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "d:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "d:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "d:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "d:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "d:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "d:\\unreal engine games\\raider\\raider\\ue5_raider\\intermediate\\build\\win64\\unrealeditor\\inc\\ue5_raider\\uht\\ue5_raidercharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

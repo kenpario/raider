@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal Engine Games\\Raider\\raider\\UE5_Raider\\Source\\UE5_Raider\\UE5_Raider.Build.cs",
+		"D:\\Unreal Engine Games\\Raider\\raider\\UE5_Raider\\Source\\UE5_Raider.Target.cs",
+		"D:\\Unreal Engine Games\\Raider\\raider\\UE5_Raider\\Source\\UE5_RaiderEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}
