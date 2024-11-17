@@ -5,7 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Unreal Engine Games/Raider/raider/UE5_Raider/Content/Main.umap",
 				"D:/Unreal Engine Games/Raider/raider/UE5_Raider/Content/World_HLOD0_Instancing.uasset",
 				"D:/Unreal Engine Games/Raider/raider/UE5_Raider/Content/__ExternalActors__/World/6/9Y/H18LQVXZSAGY1V6BQSXDPG.uasset",
 				"D:/Unreal Engine Games/Raider/raider/UE5_Raider/Content/__ExternalObjects__/World/F/4B/B7Y33CMN3P2MK30K2CNBH6.uasset",
@@ -151,7 +150,23 @@
 				"D:/Unreal Engine Games/Raider/raider/UE5_Raider/Content/__ExternalActors__/World/E/2Z/J2RH389A52T3L20IAJ8909.uasset",
 				"D:/Unreal Engine Games/Raider/raider/UE5_Raider/Content/__ExternalActors__/World/4/XC/FKH8AQWBASBVDRTELCUZW8.uasset",
 				"D:/Unreal Engine Games/Raider/raider/UE5_Raider/Content/__ExternalActors__/World/E/QQ/1QN15OQIE8GJKQ2N2M152A.uasset",
-				"D:/Unreal Engine Games/Raider/raider/UE5_Raider/Content/World.umap"
+				"D:/Unreal Engine Games/Raider/raider/UE5_Raider/Content/World.umap",
+				"D:/Unreal Engine Games/Raider/raider/UE5_Raider/Content/__ExternalActors__/World/9/B8/O6O5E1D0IYYAQ1WOX3R8BB.uasset",
+				"D:/Unreal Engine Games/Raider/raider/UE5_Raider/Content/__ExternalActors__/World/3/V2/S30B7XF28FC37NNO50A1K7.uasset",
+				"D:/Unreal Engine Games/Raider/raider/UE5_Raider/Content/__ExternalActors__/World/4/8E/IZCMYTSZ730JTFJ7AF13TH.uasset",
+				"D:/Unreal Engine Games/Raider/raider/UE5_Raider/Content/__ExternalActors__/World/3/4Z/M6UV3O0TSWKAILM2H5SG3T.uasset",
+				"D:/Unreal Engine Games/Raider/raider/UE5_Raider/Content/__ExternalActors__/World/D/KL/7E6Z1KX0SYBFJQTIR7DTSQ.uasset",
+				"D:/Unreal Engine Games/Raider/raider/UE5_Raider/Content/__ExternalActors__/World/3/N9/TLFU3KW7EJSK4OI7CTAZWB.uasset",
+				"D:/Unreal Engine Games/Raider/raider/UE5_Raider/Content/__ExternalActors__/World/D/D7/79ZJG5K2WM8ZTB7MNIDPKH.uasset",
+				"D:/Unreal Engine Games/Raider/raider/UE5_Raider/Content/__ExternalActors__/World/E/MM/62UFZ4FYUYX0WOAPG269T5.uasset",
+				"D:/Unreal Engine Games/Raider/raider/UE5_Raider/Content/__ExternalActors__/World/6/ZD/X13F7P024X70P5M0QGLOQ0.uasset",
+				"D:/Unreal Engine Games/Raider/raider/UE5_Raider/Content/__ExternalActors__/World/E/E3/QIT8ZJ929GQQKUI80HIL8B.uasset",
+				"D:/Unreal Engine Games/Raider/raider/UE5_Raider/Content/__ExternalActors__/World/4/94/6S2V91I46UQP4NBRQETV23.uasset",
+				"D:/Unreal Engine Games/Raider/raider/UE5_Raider/Content/__ExternalActors__/World/5/WS/4QE4K7U6DSVPDY4JV3OEVS.uasset",
+				"D:/Unreal Engine Games/Raider/raider/UE5_Raider/Content/__ExternalActors__/World/8/A1/GG3KFP3GKBX15DJ2CWX33N.uasset",
+				"D:/Unreal Engine Games/Raider/raider/UE5_Raider/Content/__ExternalActors__/World/6/FZ/SD52FUPZOSMX9YEMPCXZ4U.uasset",
+				"D:/Unreal Engine Games/Raider/raider/UE5_Raider/Content/__ExternalActors__/World/5/55/0CU8GHQPKEFOQKUEMHI10N.uasset",
+				"D:/Unreal Engine Games/Raider/raider/UE5_Raider/Content/Main.umap"
 			]
 		}
 	]
